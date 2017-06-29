@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<!--changed id,name,price,image-no effect, manufacturer-had effect on side bar link-->
+<SmartPhoneCatalog>
+    <phone id="iphone7">
+        <name>iPhone 7- Jet Black- 256GB</name>
+        <price>849.00</price>
+        <image>iphone7.PNG</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>iPhone7CasePink</accessory>
+            <accessory>iPhone7CaseJetBlack</accessory>
+            <accessory>iPhone7CaseShockProof</accessory>
+        </accessories>
+    </phone>
+    <phone id="iphone7Plus">
+        <name>iPhone 7 Plus- Gold- 256GB</name>
+        <price>969.00</price>
+        <image>iphone7plus.jpeg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+
+    <phone id="galaxyS8">
+        <name>Samsung Galaxy S8- 64GB</name>
+        <price>750.00</price>
+        <image>galaxys8.PNG</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>GalaxyS8CaseShockproof</accessory>
+			<accessory>GalaxyS8CaseSlim</accessory>
+        </accessories>
+    </phone>
+    <phone id="GalaxyS7edge">
+        <name>Samsung Galaxy S7 edge- 32GB</name>
+        <price>694.99</price>
+        <image>galaxys7edge.jpeg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+    <phone id="HTC10">
+        <name>HTC 10- Glacier Silver- 32 GB</name>
+        <price>398.97</price>
+        <image>htc.png</image>
+        <manufacturer>HTC</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phone>
+</SmartPhoneCatalog>
+
+<TabletCatalog>
+    <tablet id="galaxyTab10">
+        <name>Samsung Galaxy Tab 10.1</name>
+        <price>169.69</price>
+        <image>samsung-galaxy-tab-10.1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="galaxyTabS3">
+        <name>Samsung Galaxy Tab S3 9.7”</name>
+        <price>599.99</price>
+        <image>galaxy-tab-s3_gallery_right-side_silver_s2.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="iPadAir2">
+        <name>Apple iPad Air 2- WiFi- 32 GB</name>
+        <price>299.99</price>
+        <image>ipadAir2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="iPadMini4">
+        <name>Apple iPad mini 4- WiFi- 32 GB</name>
+        <price>299.99</price>
+        <image>ipadMini4.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="SurfacePro4">
+        <name>Microsoft Surface Pro 4- 128GB/Intel Core m3 (No Pen)</name>
+        <price>799.00</price>
+        <image>surfacePro4.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+</TabletCatalog>
+
+<LaptopsCatalog>
+<laptop id="macBookPro">
+        <name>MacBook Pro 2017</name>
+        <price>1499.00</price>
+        <image>macbookpro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="macBookAir">
+        <name>MacBook Air</name>
+        <price>999</price>
+        <image>macbookair.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="dellInspiron">
+        <name>Inspiron 15 7000 2-in-1</name>
+        <price>799.99</price>
+        <image>inspiron-15-7000-photo-2.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="dellPrecision">
+        <name>New Precision 3520</name>
+        <price>999.00</price>
+        <image>dell-precision-3520.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="hpSpectre">
+        <name>HP Spectre x360 Convertible Laptop-13t touch</name>
+        <price>1089.99</price>
+        <image>hpSpectre.png</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+</LaptopsCatalog>
+
+<TvsCatalog>
+<tv id="samsungQ9">
+        <name>65" Class Q9F QLED 4K TV</name>
+        <price>5999.99</price>
+        <image>QLEDTV.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="samsungUHD">
+        <name>55" Class MU9000 4K UHD TV</name>
+        <price>1999.99</price>
+        <image>UHD.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="lgHDR">
+        <name>LG SIGNATURE OLED TV W - 4K HDR Smart TV - 65" Class </name>
+        <price>7999.99</price>
+        <image>lgHDR.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="lgB6">
+        <name>B6 OLED 4K HDR Smart TV - 55" Class</name>
+        <price>1999.00</price>
+        <image>lgB6.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+<tv id="sonyZ9D">
+        <name>Z9D LED 4K Ultra HD High Dynamic Range (HDR) Smart TV </name>
+        <price>5499.99</price>
+        <image>sonyZ9D.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</tv>
+</TvsCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="iPhone7CasePink">
+        <name>iPhone 7 Case [Rose Gold]</name>
+        <price>13.99</price>
+        <image>iPhone7CasePink.PNG</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="iPhone7CaseJetBlack">
+        <name>iPhone 7 Case [Jet Black]</name>
+        <price>14.99</price>
+        <image>iPhone7CaseJetBlack.PNG</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="iPhone7CaseShockProof">
+        <name>iPhone 7 Case [Shock Proof]</name>
+        <price>4.99</price>
+        <image>iphone7CaseShockProof.PNG</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="GalaxyS8CaseShockproof">
+        <name>Galaxy S8 Case [Shock proof]</name>
+        <price>9.99</price>
+        <image>galaxyS8Case.PNG</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="GalaxyS8CaseSlim">
+        <name>Galaxy S8 Case with Slim Dual Layer</name>
+        <price>16.99</price>
+        <image>galaxyS8CaseSlim.PNG</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+</AccessoryCatalog>
+
+</ProductCatalog>
