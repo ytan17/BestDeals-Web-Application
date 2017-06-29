@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<!--changed id,name,price,image-no effect, manufacturer-had effect on side bar link-->
+<LawnMowerCatalog>
+    <lawnMower id="ego">
+        <name>21 in. 56-Volt Lithium-Ion Cordless Battery Self Propelled Mower</name>
+        <price>549.00</price>
+        <image>ego.PNG</image>
+        <manufacturer>EGO</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>10.0</rebate>
+    </lawnMower>
+    <lawnMower id="honda">
+        <name>21 in. 3-in-1 Variable Speed Gas Self Propelled Mower with Auto Choke</name>
+        <price>399.00</price>
+        <image>honda.PNG</image>
+        <manufacturer>Honda</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>10.0</rebate>
+    </lawnMower>
+
+    <lawnMower id="toro">
+        <name>22 in. Kohler High Wheel Variable Speed Gas Self Propelled Mower</name>
+        <price>274</price>
+        <image>toro.PNG</image>
+        <manufacturer>Toro</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>10.0</rebate>
+    </lawnMower>
+    <lawnMower id="cubcadet">
+        <name>33 in. 420cc Electric Start Wide Cut Gas Self Propelled Mower</name>
+        <price>1299.00</price>
+        <image>cubcadet.PNG</image>
+        <manufacturer>Cub Cadet</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <rebate>10.0</rebate>
+    </lawnMower>
+</LawnMowerCatalog>
+
+
+<SnowBlowersCatalog>
+<SnowBlower id="toroSnow">
+        <name>24 in. Powermax 724 OE 2-Stage Gas Snow Blower</name>
+        <price>799.00</price>
+        <image>toro.PNG</image>
+        <manufacturer>Toro</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <rebate>15.0</rebate>
+</SnowBlower>
+<SnowBlower id="powersmart">
+        <name>24 in. 212cc Two-Stage Gas Snow Blower with Headlight</name>
+        <price>499.00</price>
+        <image>powersmart.PNG</image>
+        <manufacturer>Power Smart</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <rebate>15.0</rebate>
+</SnowBlower>
+<SnowBlower id="ariens">
+        <name>Compact 24 in. 2-Stage Electric Start Gas Snow Blower</name>
+        <price>799.99</price>
+        <image>ariens.PNG</image>
+        <manufacturer>Ariens</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <rebate>15.0</rebate>
+</SnowBlower>
+<SnowBlower id="snotek">
+        <name>24 in. 2-Stage Electric Start Gas Snow Blower</name>
+        <price>649.00</price>
+        <image>snotek.PNG</image>
+        <manufacturer>Sno-Tek</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <rebate>15.0</rebate>
+</SnowBlower>
+
+</ProductCatalog>
